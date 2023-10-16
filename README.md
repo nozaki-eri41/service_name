@@ -56,3 +56,6 @@ Stimulus Autocompleteの仕様を候補に検索機能をつくる
 ・日々の生活の中でクスッと笑ってしまうような出来事をつぶやいてみんなで共有できる
 ・どんなことでみんながストレスをつぶやいているのかキーワードで管理者がわかるようにグラフ化する
 ・匿名相談に回答してくれた人にお礼メッセージを相談者が送れるようにする（非公開予定）
+
+## 画面遷移図
+https://www.figma.com/file/NSd1HKBWoD5Ty5qlNmkLjx/Untitled?type=design&node-id=30%3A1101&mode=design&t=6eFmpzoDiSFJ1CIr-1 
