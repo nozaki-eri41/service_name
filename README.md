@@ -61,4 +61,4 @@ Stimulus Autocompleteの仕様を候補に検索機能をつくる
 https://www.figma.com/file/NSd1HKBWoD5Ty5qlNmkLjx/Untitled?type=design&node-id=30%3A1101&mode=design&t=6eFmpzoDiSFJ1CIr-1 
 
 ## ER図
-[![Image from Gyazo](https://i.gyazo.com/1ea5c7ac44631920c2747ca82682cfcf.png)](https://gyazo.com/1ea5c7ac44631920c2747ca82682cfcf)
+[![Image from Gyazo](https://i.gyazo.com/f831093243298be8c2fa1b42326b281f.png)](https://gyazo.com/f831093243298be8c2fa1b42326b281f)
