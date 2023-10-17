@@ -59,3 +59,6 @@ Stimulus Autocompleteの仕様を候補に検索機能をつくる
 
 ## 画面遷移図
 https://www.figma.com/file/NSd1HKBWoD5Ty5qlNmkLjx/Untitled?type=design&node-id=30%3A1101&mode=design&t=6eFmpzoDiSFJ1CIr-1 
+
+## ER図
+[![Image from Gyazo](https://i.gyazo.com/1ea5c7ac44631920c2747ca82682cfcf.png)](https://gyazo.com/1ea5c7ac44631920c2747ca82682cfcf)
